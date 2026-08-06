@@ -1,0 +1,11 @@
+# Plaintext settings — never commit these directly, only the encrypted archive
+prefs.js
+prefs-1.js
+handlers.json
+containers.json
+extension-preferences.json
+zen-themes.json
+zen-keyboard-shortcuts.json
+xulstore.json
+search.json.mozlz4
+settings.tar.gz
